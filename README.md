@@ -1,1 +1,1 @@
-# lanecpu.statussite
+# lcpust.github.io
